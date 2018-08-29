@@ -8,3 +8,5 @@ $ git clone https://github.com/fernandoporazzi/get-instagram-data.git
 $ cd get-instagram-data
 $ go run main.go
 ```
+
+Note: API provided by instagram is no longer working. 
